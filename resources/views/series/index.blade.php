@@ -1,6 +1,9 @@
 @extends('layout.app')
 
 @section( 'title', 'Serie tech')
+@section('header')
+Test d'un Header sur la page Index
+@endsection
 @section('sustitle')
 Vos séries Préférées
 @endsection
@@ -25,4 +28,7 @@ Vos séries Préférées
                             </div>
                         </a>
                         @endforeach
+@endsection
+@section('footer')
+Test de Footer sur la page Index
 @endsection

@@ -1,6 +1,9 @@
 @extends('layout.app')
 
 @section( 'title', 'Serie tech')
+@section('header')
+Test d'un Header sur la page Show
+@endsection
 @section('sustitle')
 Détails
 @endsection
@@ -22,4 +25,7 @@ Détails
                                 
                             </div>
                         </a>
+@endsection
+@section('footer')
+Test de Footer sur la page Show
 @endsection
