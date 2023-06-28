@@ -2,10 +2,10 @@
 
 @section( 'title', 'Serie tech')
 @section('header')
-Test d'un Header sur la page Show
+    Test d'un Header sur la page Show
 @endsection
 @section('sustitle')
-Détails
+    Détails
 @endsection
 @section('content')
                     
@@ -27,5 +27,5 @@ Détails
                         </a>
 @endsection
 @section('footer')
-Test de Footer sur la page Show
+    Test de Footer sur la page Show
 @endsection

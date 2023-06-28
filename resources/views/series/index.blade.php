@@ -2,10 +2,10 @@
 
 @section( 'title', 'Serie tech')
 @section('header')
-Test d'un Header sur la page Index
+    Test d'un Header sur la page Index
 @endsection
 @section('sustitle')
-Vos séries Préférées
+    Vos séries Préférées
 @endsection
 @section('content')
     
@@ -30,5 +30,5 @@ Vos séries Préférées
                         @endforeach
 @endsection
 @section('footer')
-Test de Footer sur la page Index
+    Test de Footer sur la page Index
 @endsection
